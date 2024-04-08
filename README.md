@@ -4,7 +4,7 @@
 2. Instalar Dependencias
 ```pnpm i```
 3. Ejecutar 
-```pnpm run dev``
+```pnpm run dev```
 
 ## Esta app usa los hook de usteState, UseContext, useEffect y useReduce
  1. useState se uso para hacer un custom hook para manejar los formularios y tambien para almacenar datos en el componente AllTask.jsx
